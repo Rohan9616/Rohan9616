@@ -1,6 +1,5 @@
 # Hi there, I'm Rohan Pise! 👋
 
-![Profile Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+Rohan's+GitHub+Profile)
 
 ## About Me
 
