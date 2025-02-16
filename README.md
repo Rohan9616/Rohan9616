@@ -1,50 +1,24 @@
-# Hi there, I'm Rohan Pise! 👋  
+# Hi there, I'm Rohan Pise! 👋
 
-🎓 **AI & Cybersecurity Enthusiast** | 🔍 **Web Security & Threat Intelligence** | 🛡 **Zero Trust & Network Security**  
+![Profile Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+Rohan's+GitHub+Profile)
 
-I'm a 3rd-year Artificial Intelligence & Data Science student passionate about cybersecurity, network security, and AI-powered security solutions. I specialize in penetration testing, phishing simulations, and malware detection.  
+## About Me
 
-## 🛠 Technical Skills  
+I am a passionate **Artificial Intelligence and Data Science** student with a keen interest in **Cybersecurity**. I enjoy exploring the intersection of AI and security, developing solutions that make the digital world safer.
 
-- **Languages:** Python, C++, HTML  
-- **Cybersecurity Skills:** Web App Security, SIEM, IDS/IPS, Threat Intelligence, Network Security, Vulnerability Assessment, Penetration Testing  
-- **Cloud Security:** AWS Security, IAM, Zero Trust  
-- **Tools & Technologies:** Burp Suite, Metasploit, Wireshark, Nmap  
+- 🔭 I’m currently working on enhancing my skills in **Network Security** and **Machine Learning**.
+- 🌱 I’m learning about **Zero Trust Architectures** and advanced **Threat Intelligence** methodologies.
+- 💬 Ask me about **Penetration Testing**, **Malware Analysis**, or **AI in Cybersecurity**.
+- 📫 How to reach me: [rohanpise80@gmail.com](mailto:rohanpise80@gmail.com)
+- ⚡ Fun fact: I love solving complex puzzles and participating in cybersecurity challenges.
 
-## 🚀 Projects  
+## Skills
 
-### 🔹 [ClickSafe – Phishing Simulation Tool](https://github.com/Rohan9616/Clicksafe)  
-A phishing simulation tool designed to raise cybersecurity awareness by simulating realistic phishing attacks.  
-🔹 **Features:** Email tracking, phishing webpage on Netlify, security awareness suggestions  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
 
-### 🔹 [Malware Detection Using Machine Learning](https://github.com/Rohan9616/Malware-Detection-ML)  
-An AI-based system that classifies files as Malware or Benign using machine learning models.  
-🔹 **Technologies:** Python, Scikit-Learn, Random Forest, Streamlit  
-
-## 💼 Experience  
-
-🔹 **Network Engineer Intern @ Juniper Networks** (Oct 2024 – Dec 2024)  
-- Hands-on experience with **Junos OS, OSPF, BGP, VLANs, VPNs**  
-- Conducted **penetration testing & vulnerability assessments** using **Nmap & Wireshark**  
-- Explored **Zero Trust Security Architecture** for secure networking  
-
-## 🎖 Certifications  
-
-- 🏅 **Zscaler Zero Trust Associate (ZTCA)**  
-- 🏅 **JNCIA-Junos (Juniper Networks)**  
-
-## 📚 Education  
-
-🎓 **BE in Artificial Intelligence & Data Science**  
-**Ajeenkya DY Patil School of Engineering, Pune** (2022 – 2026)  
-
-## 🔗 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-pise-8a1955250)  
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rohan9616)  
-
-📧 **Email:** rohanpise80@gmail.com  
-
----
-
-⭐ **Feel free to explore my projects and contribute!**  
